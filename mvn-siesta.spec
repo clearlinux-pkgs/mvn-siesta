@@ -4,7 +4,7 @@
 #
 Name     : mvn-siesta
 Version  : 1.5.2
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/sonatype/sisu/siesta/siesta-client/1.5.2/siesta-client-1.5.2.jar
 Source0  : https://repo1.maven.org/maven2/org/sonatype/sisu/siesta/siesta-client/1.5.2/siesta-client-1.5.2.jar
 Source1  : https://repo1.maven.org/maven2/org/sonatype/sisu/siesta/siesta-client/1.5.2/siesta-client-1.5.2.pom
